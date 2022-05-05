@@ -2,3 +2,7 @@
 	path = coreutils
 	url = https://github.com/reishoku/manpages-ja-coreutils.git
 	branch = main
+[submodule "findutils"]
+	path = findutils
+	url = https://github.com/reishoku/manpages-ja-findutils.git
+	branch = main
