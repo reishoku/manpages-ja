@@ -1,0 +1,4 @@
+[submodule "coreutils"]
+	path = coreutils
+	url = https://github.com/reishoku/manpages-ja-coreutils.git
+	branch = main
