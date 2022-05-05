@@ -6,3 +6,7 @@
 	path = findutils
 	url = https://github.com/reishoku/manpages-ja-findutils.git
 	branch = main
+[submodule "expect"]
+	path = expect
+	url = https://github.com/reishoku/manpages-ja-expect.git
+	branch = main
